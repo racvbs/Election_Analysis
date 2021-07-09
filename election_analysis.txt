@@ -1,0 +1,24 @@
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+-------------------------
+
+The county Jefferson had 38855 votes, it means the 10.5% of electors.
+The county Denver had 306055 votes, it means the 82.8% of electors.
+The county Arapahoe had 24801 votes, it means the 6.7% of electors.
+-------------------------
+Largest county: Denver
+with the 82.8% of electors.
+-------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
