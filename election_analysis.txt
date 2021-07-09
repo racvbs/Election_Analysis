@@ -7,12 +7,12 @@ Total Votes: 369,711
 County Votes:
 -------------------------
 
-The county Jefferson had 38855 votes, it means the 10.5% of electors.
-The county Denver had 306055 votes, it means the 82.8% of electors.
-The county Arapahoe had 24801 votes, it means the 6.7% of electors.
+The county Jefferson had 38855 votes, it means the 10.5% of votes.
+The county Denver had 306055 votes, it means the 82.8% of votes.
+The county Arapahoe had 24801 votes, it means the 6.7% of votes.
 -------------------------
 Largest county: Denver
-with the 82.8% of electors.
+with the 82.8% of votes.
 -------------------------
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
