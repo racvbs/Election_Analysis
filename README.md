@@ -98,7 +98,7 @@ If it's necessary, the adjustments to use this code in the future are:
 > To add calculations to know winners for each county in order to find out the winner based on number of counties and not just for popular vote
 > If there is historical information, make comparisons between years or periods of elections.
 
-Finnaly, we can aggregate a module to make graphics and make visualization even better than just tables.
+Finnally, we can aggregate a module to make graphics and make visualization even better than just tables.
 
 By Raquel Valdez
 
